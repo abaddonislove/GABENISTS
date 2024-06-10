@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/unrealshiz/demodemo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/unrealshiz/demodemo/Content/FirstPerson/Input/IMC_Default.uasset",
+				"E:/unrealshiz/demodemo/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/unrealshiz/demodemo/Content/FirstPerson/Blueprints/LinetraceInteraction.uasset",
+				"E:/ebic/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"E:/unrealshiz/demodemo/Content/FirstPerson/Blueprints/Box.uasset",
+				"E:/unrealshiz/demodemo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/ON/F8KIG743T01D3AMN5ZF6WC.uasset",
+				"E:/unrealshiz/demodemo/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"E:/unrealshiz/demodemo/Content/FirstPerson/Input/Actions/IA_Prone.uasset",
+				"E:/unrealshiz/demodemo/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"E:/unrealshiz/demodemo/Content/FirstPerson/Blueprints/boxi.uasset",
+				"E:/unrealshiz/demodemo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/BP/IAIRXY1TT8S1YMO5PUAY2U.uasset"
+			]
+		}
+	]
+}
